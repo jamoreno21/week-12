@@ -1,0 +1,64 @@
+{
+    "workers":[
+        {
+            "name":"John Moreno",
+            "id":1,
+            "salary":50000,
+            "occupation":"Software Engineer Apprentice"
+        },
+        {
+            "name":"Kemly Guillen",
+            "id":2,
+            "salary":53000,
+            "occupation":"Truck Driver"
+        },
+        {
+            "name":"Richard Vaughn",
+            "id":3,
+            "salary":40000,
+            "occupation":"Truck Driver"
+        },
+        {
+            "name":"Miguel Beltran",
+            "id":4,
+            "salary":30000,
+            "occupation":"USMC"
+        },
+        {
+            "name":"Carlos Martinez",
+            "id":5,
+            "salary":50000,
+            "occupation":"Lowes Manager"
+        },
+        {
+            "name":"Jace Katsanos",
+            "id":6,
+            "salary":30000,
+            "occupation":"USMC"
+        },
+        {
+            "name":"Marcellus Kumor",
+            "id":7,
+            "salary":50000,
+            "occupation":"Prison Correctional Officer"
+        },
+        {
+            "name":"Obasi Duku",
+            "id":8,
+            "salary":35000,
+            "occupation":"Amazon Warehouse Manager"
+        },
+        {
+            "name":"Mark Zyble",
+            "id":9,
+            "salary":45000,
+            "occupation":"USMC"
+        },
+        {
+            "name":"Anthony Kinnard",
+            "id":10,
+            "salary":60000,
+            "occupation":"USMC"
+        }
+    ]
+}
